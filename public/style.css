@@ -1,0 +1,97 @@
+body {
+	background: silver;
+}
+
+.img-main img{
+	width: 200px;
+	height: 150px;
+}
+
+.main{
+	width: 1000px;
+	height: 800px;
+	border: 1px solid cornsilk;
+  	border-top: 5px solid skyblue;
+  	border-radius: 2px;
+  	background-color: white;
+}
+.post {
+	display: flex;
+	height: 180px;
+}
+
+.post-main-title h1{
+
+	font-size: 20px;
+	color: blue;
+}
+.post-main-author{
+	color: silver;
+}
+
+h1{
+	font-size: 20px;
+}
+
+.post button {
+	background: silver;
+}
+.FormDangKy {
+	width: 275px;
+	height: 350px;
+	background: orange;
+	position: relative;
+	bottom: 855px;
+	left: 1020px;
+	text-align: center;
+}
+.FormDangKy h2{
+	font-size: medium;	
+}
+
+.checkbox label{
+	color: blue;
+}
+
+
+.New {
+	width: 275px;
+	height: 528px;
+	position: relative;
+	bottom: 855px;
+	left: 1020px;
+	background: white;
+
+}
+.New-title h2{
+	font-size: medium;
+	color: white;
+	text-align: center;
+}
+.New-title {
+	background: darkblue;
+}
+
+.New-post {
+	display: flex;
+}
+
+.New-post-img img {
+	width: 100px;
+	height: 100px;
+}
+
+.New-post-main {
+	position: relative;
+	bottom: 18px;
+}
+
+.New-post-title h2{
+	font-size: 17px;
+}
+
+.New-post-author p{
+	color: silver;
+}
+
+
